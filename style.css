@@ -1,0 +1,213 @@
+body
+{
+    background-color: #A8A9AD;
+}
+#nav_bar
+{
+   height: 100px;
+    background-color: #0076b6;
+	position: fixed;
+	top: 0;
+	z-index: 999;
+}
+
+#register
+{
+    margin-top: 10%;
+}
+
+b
+{
+    color: #244A01;
+}
+
+.main-stuff{
+	margin-top: 100px;
+}
+
+.event-heading
+{
+    color: #0076b6;
+    font-size: 200%;
+}
+
+#footer
+{
+    text-align: center;
+}
+.event-class
+{
+    color: #096F1B;
+    font-size: 300%;
+}
+
+#backbenchers
+{
+    margin-left: 10%;
+}
+
+.feeds-fb
+{
+	position: fixed;
+	top:105px;
+	right: 0;
+}
+
+
+#preloader{
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background-color: #000000;
+	text-align: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+#preloader_img
+{
+	margin-top: 175px;
+max-height: 300px;
+max-width: 275px;
+}
+
+.table-image0
+{
+    padding: 10px;
+    margin-left: 20px;
+    max-width: 120px;
+    align-content: center;
+    float: left;
+}
+
+#reg{
+	margin-top: 10px;
+}
+
+#cap{
+	text-transform: uppercase;
+}
+
+h3
+{
+    font-size: 150%;
+    text-align: center;
+}
+
+.contact{
+	text-align: left;
+}
+
+.team-heading
+{
+    font-size: 200%;
+}
+
+h4
+{
+    font-size: 120%;
+    text-align: center;
+}
+
+h1
+{
+    font-size: 250%;
+    text-align: center;
+}
+
+h2
+{
+    text-align: center;
+    font-size: 200%
+}
+
+
+#nav_bar{
+height: 100px;
+background-color:#0076b6;
+}
+
+.right{
+	line-height:100px;
+}
+
+.button-collapse{
+	line-height:100px;
+}
+
+#close{
+position: fixed;
+top: 110px;
+right: 8px;
+z-index: 9989;
+width: 50px;
+}
+
+li
+{
+    padding:0px !important;
+}
+
+a
+{
+    padding: 5px;
+	color: #0076b6;
+text-decoration: none;
+font-weight: 700;
+}
+
+h1
+{
+    font-size: 
+}
+
+#slinks
+{
+    padding: 3px;
+    z-index: 999;
+    position: fixed;
+    bottom: 35%;
+    right: 0px;
+}
+
+#s-link-img
+{
+    display: block;
+    margin-bottom: 3px;
+    max-width: 30px !important;
+    padding: 3px;
+    z-index: 999;
+    position: fixed;
+    bottom: 35%;
+    right: 0px;
+}
+
+
+.slider
+{
+    position: relative !important;
+}
+
+/*.imageslider
+{
+    height: 500px;
+    width: 700px;
+}
+*/
+#slides1
+{
+    margin-top: 10px;
+    height: 440px;
+   /* margin-left: 5%;*/
+}
+
+
+
+.event_img
+{
+    width: 159px;
+    height: 159px;
+    margin-left: 25%;
+}
+
